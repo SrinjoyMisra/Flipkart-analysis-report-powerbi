@@ -1,6 +1,6 @@
 ## 🛒 Flipkart Sales Analytics Report (Power BI)
 
-A multi-page, interactive **Power BI dashboard** inspired by Flipkart’s e-commerce business model. This project provides end-to-end insights into **sales, orders, products, customers, and profitability**, enabling data-driven decision-making through KPIs, trends, and drill-down analysis.
+A multi-page, interactive **Power BI dashboard** inspired by Flipkart’s e-commerce business model. This project provides end-to-end insights into sales, orders, products, customers, and profitability, enabling data-driven decision-making through KPIs, trends, and drill-down analysis.
 ---
 ![image](https://github.com/SrinjoyMisra/Flipkart-analysis-report-powerbi/blob/main/Flipkart%20cover.png)
 
